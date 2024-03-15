@@ -14,5 +14,5 @@
  * 11.import googleAuthProvider and create a new provider
  * 12.use signInWithPopUp and pass auth and provider
  * 13.Activate sign-in methods (google facebook github etc)
- * 
+ * 14.
  */
